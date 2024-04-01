@@ -41,11 +41,8 @@ To utilize the code and reproduce the results, follow these steps:
 ## Conclusion
 The Potato Leaf Disease Detection Project demonstrates the effectiveness of CNNs in classifying diseases in potato leaves based on image data. By combining custom model development, pre-trained models, and eXplainable AI techniques, the project not only achieves high classification accuracy but also provides valuable insights into the decision-making process of the models. This can aid researchers and farmers in early disease detection and management, ultimately contributing to improved crop yield and agricultural sustainability.
 
-For any inquiries or suggestions, please feel free to contact the project contributors.
+For any inquiries or suggestions, please feel free to contact the project contributor.
 
-## Contributors
-- [Your Name]
-- [Co-contributor Name(s)]
+## Contributor
+- Bhaskar Dey
 
-## License
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
