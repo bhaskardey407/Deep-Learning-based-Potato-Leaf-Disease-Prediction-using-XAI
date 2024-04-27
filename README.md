@@ -15,11 +15,11 @@ To enhance interpretability and provide insights into the model's decision-makin
 ## Pre-trained CNN Models
 In addition to the custom CNN model, several pre-trained CNN models were also utilized for training and classification purposes. The following pre-trained models were employed, along with their respective accuracies:
 
-- ResNet50 Model: 99.46%
-- ResNet152 Model: 99.78%
-- InceptionV3 Model: 94.81%
-- VGG16 Model: 99.84%
-- VGG19 Model: 99.41%
+- ResNet50 Model: 99.27%
+- ResNet152 Model: 99.51%
+- InceptionV3 Model: 88.70%
+- VGG16 Model: 95.43%
+- VGG19 Model: 97.35%
 
 These pre-trained models were fine-tuned on the potato leaf dataset to adapt them to the specific task of disease classification.
 
