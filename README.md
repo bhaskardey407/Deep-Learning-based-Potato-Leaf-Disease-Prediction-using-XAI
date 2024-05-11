@@ -7,7 +7,7 @@ This repository contains the code and resources for a project aimed at detecting
 The dataset used for this project is sourced from Kaggle and consists of images of potato leaves affected by various diseases. The dataset can be accessed via the following link: [Potato Dataset](https://www.kaggle.com/datasets/arajmishra/potato-dataset)
 
 ## Model Development
-Initially, a custom CNN model was developed, achieving an impressive accuracy of 99.85% in classifying potato leaf diseases. The model was trained on the provided dataset, enabling it to effectively differentiate between different disease states of potato leaves based on their images.
+Initially, a custom CNN model was developed, achieving an impressive accuracy of 98.32% in classifying potato leaf diseases. The model was trained on the provided dataset, enabling it to effectively differentiate between different disease states of potato leaves based on their images.
 
 ## eXplainable AI (XAI) with LIME
 To enhance interpretability and provide insights into the model's decision-making process, eXplainable AI techniques were employed. LIME, a model-agnostic approach, was utilized to highlight the regions of the potato leaf images responsible for specific predictions made by the model. This helps in understanding the features or patterns within the images that contribute most significantly to the classification outcomes.
@@ -22,6 +22,9 @@ In addition to the custom CNN model, several pre-trained CNN models were also ut
 - VGG19 Model: 97.35%
 
 These pre-trained models were fine-tuned on the potato leaf dataset to adapt them to the specific task of disease classification.
+
+## Visualization
+For visualization of the results, Confusion Matrix, ROC Curve has been used for each model.
 
 ## Repository Structure
 The repository is structured as follows:
